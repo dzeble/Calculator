@@ -1,0 +1,5 @@
+('C:\\kivygui\\hideout\\share\\glew\\bin',
+ None,
+ [],
+ 'DATA',
+ [('glew32.dll', 'C:\\kivygui\\hideout\\share\\glew\\bin\\glew32.dll', 'DATA')])
